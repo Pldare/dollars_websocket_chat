@@ -3,4 +3,4 @@
     html_server2.py 5:  host=''
     html_server2.py 6:  port=80
     ws_server.py    87: start_server = websockets.serve(main_logic, '', 24258)
-    请自行修改配置 默认websocket服务端127.0.0.1:24258 hmtl 127.0.0.1/chat
+    请自行修改配置 默认websocket服务端127.0.0.1:24258 网页访问127.0.0.1/chat
